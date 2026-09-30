@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_site-2DE0C9?style=for-the-badge&logo=vercel&logoColor=0A0B10)](https://claude.ai/artifact/Vwp8HAP2CHV2WDUjVJBRoy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_site-2DE0C9?style=for-the-badge&logo=vercel&logoColor=0A0B10)](https://tharunsbio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-m-897212202)
 [![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sktharun4@gmail.com)
 
